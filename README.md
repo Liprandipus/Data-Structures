@@ -6,6 +6,6 @@ It contains :
  1) Stack
  2) Trees
  3) Graphs  
- 4) Bubble Sort
+ 4) Qucik Sort
  5) Linked List
  6) Double Linked List
